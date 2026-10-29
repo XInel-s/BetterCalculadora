@@ -5,8 +5,8 @@ Dependências
 - CMake 3.16+
 - pkg-config
 - GTK4
-- Instalação das dependências
 
+***Instalação das dependências***
 > **Debian/Ubuntu:**
 > ```bash
 > sudo apt install build-essential cmake pkg-config libgtk-4-dev
