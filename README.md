@@ -1,8 +1,9 @@
 Calculadora simples em C com GTK4.
 
 Dependências
-Compilador C (GCC ou Clang)
-CMake 3.16+
+>[!tip]
+>Compilador C (GCC ou Clang)
+>CMake 3.16+
 pkg-config
 GTK4
 Instalação das dependências
